@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/username/sub.yourdomain.com/
+    - export DEPLOYPATH=/home/tibebpkj/gym.tibebplatforms.com/
     - /bin/cp -R * $DEPLOYPATH
